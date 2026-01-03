@@ -51,7 +51,7 @@
 
 ---
 
-## 💾 데이터 수집 (Data Collection)
+## 💾 데이터 수집 경로 (Data Collection)
 
 본 프로젝트 및 실습에 사용된 데이터 수집 출처입니다.
 
